@@ -1,2 +1,5 @@
-su-stdlibs-python
-su-cs144-projectlibs
+coverage
+pytest-timeout
+pytest-cov
+flitsr
+coverage-sbfl
